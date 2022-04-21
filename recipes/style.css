@@ -1,0 +1,33 @@
+#page {
+    background-color: rgba(10, 29, 80, 0.699);
+    color: rgb(122, 219, 122);
+    font-size: 20px;
+}
+
+.page-title {
+    color: rgb(0, 204, 255);
+    text-align: center;
+    font-family: monospace;
+}
+
+.img {
+    height: 600px;
+    width: auto;
+}
+
+h2 {
+    color: rgb(255, 175, 1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+    font-family: sans-serif;
+}
+
+ol {
+    font-family: sans-serif;
+}
+ 
+p {
+    font-family: sans-serif;
+}
